@@ -1,2 +1,1 @@
-# webdesign
-web designing project
+# Learn Git with GitHub #
